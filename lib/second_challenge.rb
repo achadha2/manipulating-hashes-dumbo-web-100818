@@ -11,3 +11,5 @@ def second_challenge
   
 
 end
+
+puts second_challenge
